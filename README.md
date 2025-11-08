@@ -55,6 +55,11 @@ python -m http.server 8000
 
 تم تطوير هذا المشروع بواسطة [ayzem88](https://github.com/ayzem88)
 
+## التواصل
+
+للاستفسارات أو المساهمة، يمكنك التواصل معي عبر:
+- البريد الإلكتروني: [aymen.nji@gmail.com](mailto:aymen.nji@gmail.com)
+
 ## ملاحظات
 
 - التطبيق يعمل كتطبيق ويب ثابت (Static Web App)
